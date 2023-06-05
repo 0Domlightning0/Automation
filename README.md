@@ -76,6 +76,29 @@ You can change the folder the program reads by chnaging the input in the FOLDER 
 
 ![image](https://github.com/0Domlightning0/Automation/assets/99225898/041a18da-45f0-4384-9ccf-42dd279f94a5) ![image](https://github.com/0Domlightning0/Automation/assets/99225898/a12b7329-16a8-41c2-adfc-2dd61815b4ff)
 
+## Changing the body and topic of the email sent to the inward recipient email
+
+### Changing body
+
+You can change the message the body of the by chnaging the string value under msg. payload, this will be the message inside of the body of the email
+
+![image](https://github.com/0Domlightning0/Automation/assets/99225898/ad43cbdd-b337-4b6d-a708-5062a573b41f)
+
+### Changing topic
+
+You can change the message the body of the by chnaging the string value under msg. topic, , this will be the message inside of the subject of the email
+
+![image](https://github.com/0Domlightning0/Automation/assets/99225898/36a1fd46-1e60-4bad-aedb-b798c091a9dd)
+
+## Changing the inward recipient email
+
+You can change the inward reipiant by changing the email address in the "To" menu
+
+![image](https://github.com/0Domlightning0/Automation/assets/99225898/bd70add0-5ea8-4d4b-950d-eb6194030e0c)
+
+
+
+
 
 
 
