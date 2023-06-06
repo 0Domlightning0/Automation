@@ -116,7 +116,7 @@
         "token": "oauth2Response.access_token",
         "secure": false,
         "tls": true,
-        "name": "dom.robel@gmail.com",
+        "name": "inward recipient email",
         "dname": "Report Comptimised",
         "x": 980,
         "y": 400,
@@ -133,7 +133,7 @@
         "token": "oauth2Response.access_token",
         "secure": false,
         "tls": true,
-        "name": "dom.robel@gmail.com",
+        "name": "inward recipient email",
         "dname": "Report Aid",
         "x": 950,
         "y": 520,
@@ -150,7 +150,7 @@
         "token": "oauth2Response.access_token",
         "secure": false,
         "tls": true,
-        "name": "dom.robel@gmail.com",
+        "name": "inward recipient email",
         "dname": "Report Clue",
         "x": 950,
         "y": 700,
@@ -321,7 +321,7 @@
         "token": "oauth2Response.access_token",
         "secure": false,
         "tls": true,
-        "name": "dom.robel@gmail.com",
+        "name": "inward recipient email",
         "dname": "Report Blank",
         "x": 950,
         "y": 300,
@@ -521,10 +521,11 @@
         "token": "oauth2Response.access_token",
         "secure": false,
         "tls": true,
-        "name": "dom.robel@gmail.com",
+        "name": "inward recipient email",
         "dname": "give user?",
         "x": 970,
         "y": 860,
         "wires": []
     }
 ]
+
