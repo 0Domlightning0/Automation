@@ -92,7 +92,6 @@ You can change the message's body by changing the string value under msg. topic,
 
 You can change the inward recipient by changing the email address in the "To" menu
 
-![image](https://github.com/0Domlightning0/Automation/assets/99225898/bd70add0-5ea8-4d4b-950d-eb6194030e0c)
 
 
 
