@@ -92,6 +92,18 @@ You can change the message's body by changing the string value under msg. topic,
 
 You can change the inward recipient by changing the email address in the "To" menu
 
+#improvements
+
+##Complexity
+
+- Add more codewords
+- Add a function to respond to the person who sent the email to confirm/send a message
+- Report the name/email of the person who sent the email to the inward recipient email
+- Detect certain sentences like "whats a submarine?"
+- Detect numbers to act as codewords
+- Send/Recieve the location of the person or me
+- 
+
 
 
 
