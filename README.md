@@ -22,7 +22,6 @@ This automation project is designed to read the unread emails in the outward rec
 
 5: The automation program will use the outward recipient email to send that new message to the inward recipient email 
 
-![image](https://github.com/0Domlightning0/Automation/assets/99225898/1496b923-a87f-4aa8-bed8-a4b91f4722d1)
 
 ## Vocabulary
 UserID = email address of the email you are trying to log into 
