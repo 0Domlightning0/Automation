@@ -4,11 +4,10 @@ This automation project is designed to read the unread emails in the outward rec
 ## Steps
 1: An e-mail from an outside source will be sent to the outward recipient email that either contains the selected code words, doesn't contain them or is blank
 
-![image](https://github.com/0Domlightning0/Automation/assets/99225898/7451a61e-2c88-499d-91d1-5d98b03197ec)
 
 2: The automation program will access the unread emails inside of the outward recipient's email and marks the accessed e-mail for reading to prevent repetition 
 
-![image](https://github.com/0Domlightning0/Automation/assets/99225898/1abbecdc-cc71-47a4-bfd0-b555db291433) ![image](https://github.com/0Domlightning0/Automation/assets/99225898/b3a0e82c-c3be-4fd6-8e78-2d4ee73db6de) ![image](https://github.com/0Domlightning0/Automation/assets/99225898/b94ea6a8-63c0-4393-91a5-09f6f6d99647)
+![image](https://github.com/0Domlightning0/Automation/assets/99225898/b3a0e82c-c3be-4fd6-8e78-2d4ee73db6de) ![image](https://github.com/0Domlightning0/Automation/assets/99225898/b94ea6a8-63c0-4393-91a5-09f6f6d99647)
 
 
 
@@ -23,7 +22,7 @@ This automation project is designed to read the unread emails in the outward rec
 
 5: The automation program will use the outward recipient email to send that new message to the inward recipient email 
 
-![image](https://github.com/0Domlightning0/Automation/assets/99225898/551334fc-2b67-4b7a-be8b-3676f6891f9c) ![image](https://github.com/0Domlightning0/Automation/assets/99225898/1496b923-a87f-4aa8-bed8-a4b91f4722d1)
+![image](https://github.com/0Domlightning0/Automation/assets/99225898/1496b923-a87f-4aa8-bed8-a4b91f4722d1)
 
 ## Vocabulary
 UserID = email address of the email you are trying to log into 
